@@ -1,0 +1,5 @@
+version: 1
+
+libraries:
+ - name: libxml2
+   remote: https://github.com/deferpanic/packages
